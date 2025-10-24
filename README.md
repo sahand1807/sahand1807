@@ -28,7 +28,6 @@ I enjoy bridging **physics, control theory, machine learning, and reinforcement 
 
 ### 📈 GitHub Insights
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahand1807&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahandsadeghi&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
