@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahand Sadeghi  
 
-<!--
-**sahand1807/sahand1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Engineer | Robotics & Control Researcher | AI Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a mechanical engineer (PhD) passionate about understanding and controlling dynamic systems — from classical mechanics to intelligent robots.  
+I enjoy bridging **physics, control theory, machine learning, and reinforcement learning** to design systems that can learn and adapt in the real world.
+
+- Building learning-based control systems for robotic and dynamic environments  
+- Exploring reinforcement learning, MPC, and optimal control for real-world tasks  
+- Interested in combining **simulation + real-world robotics** for adaptive behavior  
+- Skilled in **Python**, **MATLAB**, and **C++** for modeling, analysis, and control  
+
+
+---
+
+### 📚 Technical Interests
+- Classical & Nonlinear Dynamics  
+- Model Predictive Control (MPC)  
+- Reinforcement Learning (RL)  
+- System Identification & Modeling  
+- Robotics Perception & Simulation  
+- Multi-body Dynamics
+
+---
+
+### 📈 GitHub Insights
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahand1807&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahandsadeghi&show_icons=true&theme=vision-friendly-dark)
+
+---
+
+### 🌍 Connect
+📫 **Email:** [sahand72@gmail.com]  
+🧠 **Blog:** [Inteligent Dynamics](http://inteldynamic.com)  
+
+
