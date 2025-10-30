@@ -24,10 +24,6 @@ I enjoy bridging **physics, control theory, machine learning, and reinforcement 
 - Robotics Perception & Simulation  
 - Multi-body Dynamics
 
----
-
-### 📈 GitHub Insights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahand1807&layout=compact&theme=vision-friendly-dark)
 
 ---
 
