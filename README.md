@@ -29,7 +29,9 @@ I enjoy bridging **physics, control theory, machine learning, and reinforcement 
 
 ### Connect
 **Email:** [sahand72@gmail.com]  
-**LinkedIn** [Sahand Sadeghi](https://www.linkedin.com/in/sahand-sadeghi/)
+
+**LinkedIn:** [Sahand Sadeghi](https://www.linkedin.com/in/sahand-sadeghi/)
+
 **Blog:** [Inteligent Dynamics](http://inteldynamic.com)  
 
 
