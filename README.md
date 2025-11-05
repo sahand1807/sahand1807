@@ -16,7 +16,7 @@ I enjoy bridging **physics, control theory, machine learning, and reinforcement 
 
 ---
 
-### 📚 Technical Interests
+### Technical Interests
 - Classical & Nonlinear Dynamics  
 - Model Predictive Control (MPC)  
 - Reinforcement Learning (RL)  
@@ -27,8 +27,9 @@ I enjoy bridging **physics, control theory, machine learning, and reinforcement 
 
 ---
 
-### 🌍 Connect
-📫 **Email:** [sahand72@gmail.com]  
-🧠 **Blog:** [Inteligent Dynamics](http://inteldynamic.com)  
+### Connect
+**Email:** [sahand72@gmail.com]  
+**LinkedIn** [https://www.linkedin.com/in/sahand-sadeghi/]
+**Blog:** [Inteligent Dynamics](http://inteldynamic.com)  
 
 
